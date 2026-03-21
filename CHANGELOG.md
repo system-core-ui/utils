@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.2...v0.0.3) (2026-03-21)
+
+
+### Bug Fixes
+
+* **utils:** inline tsconfig.json for standalone CI compatibility ([8961320](https://github.com/qthan1004/react-lib-workspace/commit/8961320c3482ec9a866ae1baf5d43bcad635b820))
+
 ### [0.0.2](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.1...v0.0.2) (2026-03-21)
 
 
