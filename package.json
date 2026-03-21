@@ -32,5 +32,11 @@
   "files": [
     "dist",
     "!**/*.tsbuildinfo"
-  ]
+  ],
+  "standard-version": {
+    "scripts": {
+      "prerelease": "npx vitest run",
+      "postbump": "npx tsc --project tsconfig.lib.json"
+    }
+  }
 }
