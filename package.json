@@ -22,6 +22,11 @@
     "release:minor": "standard-version --release-as minor",
     "release:major": "standard-version --release-as major"
   },
+  "devDependencies": {
+    "typescript": "~5.9.2",
+    "vite": "^7.0.0",
+    "vitest": "^4.1.0"
+  },
   "files": [
     "dist",
     "!**/*.tsbuildinfo"
