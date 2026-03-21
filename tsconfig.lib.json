@@ -16,7 +16,7 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "es2022",
-    "customConditions": ["@thanhdq/source"],
+    "customConditions": ["@thanh-libs/source"],
     "outDir": "dist",
     "types": ["node"],
     "rootDir": "src",

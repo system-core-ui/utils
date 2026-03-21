@@ -1,11 +1,11 @@
-# @thanhdq/utils
+# @thanh-libs/utils
 
 Shared utility functions and hooks for System Core UI.
 
 ## Installation
 
 ```bash
-yarn add @thanhdq/utils
+yarn add @thanh-libs/utils
 ```
 
 ## Functions
@@ -19,4 +19,4 @@ yarn add @thanhdq/utils
 
 ## Running unit tests
 
-Run `nx test @thanhdq/utils` to execute the unit tests via [Vitest](https://vitest.dev/).
+Run `nx test @thanh-libs/utils` to execute the unit tests via [Vitest](https://vitest.dev/).
