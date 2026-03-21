@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.3...v0.0.4) (2026-03-21)
+
+
+### Bug Fixes
+
+* **utils:** add @types/node and tslib for CI build ([6839c55](https://github.com/qthan1004/react-lib-workspace/commit/6839c55c9f82e06821daeacd921429c1795fdd85))
+
 ### [0.0.3](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.2...v0.0.3) (2026-03-21)
 
 
