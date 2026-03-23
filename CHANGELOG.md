@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6-alpha.0](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.5...v0.0.6-alpha.0) (2026-03-23)
+
+
+### Bug Fixes
+
+* add --passWithNoTests to vitest prerelease hook ([65020ea](https://github.com/qthan1004/react-lib-workspace/commit/65020ead8b5f7c84b36edb45e8a1f2843fc5168d))
+* add passWithNoTests to CI test step ([6c211e5](https://github.com/qthan1004/react-lib-workspace/commit/6c211e53f3d4c381fdee02f723ad71af0b58c8a1))
+
 ### [0.0.5](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.4...v0.0.5) (2026-03-21)
 
 ### [0.0.4](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.3...v0.0.4) (2026-03-21)
