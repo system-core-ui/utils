@@ -9,7 +9,7 @@
  *
  * @example
  * ```ts
- * textToColor('Quốc Thành'); // => 'hsl(142, 65%, 45%)'
+ * textToColor('Quốc Thanh'); // => 'hsl(142, 65%, 45%)'
  * textToColor('John Doe');   // => 'hsl(27, 65%, 45%)'
  * ```
  */

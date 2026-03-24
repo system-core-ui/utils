@@ -8,8 +8,8 @@ describe('textToColor()', () => {
   });
 
   it('is deterministic — same input always produces same output', () => {
-    const a = textToColor('Quốc Thành');
-    const b = textToColor('Quốc Thành');
+    const a = textToColor('Quốc Thanh');
+    const b = textToColor('Quốc Thanh');
     expect(a).toBe(b);
   });
 
@@ -30,7 +30,7 @@ describe('textToColor()', () => {
   });
 
   it('produces hue in [0, 360) range', () => {
-    const names = ['Alice', 'Bob', 'Charlie', 'David', 'Eve', 'Quốc Thành', '日本語'];
+    const names = ['Alice', 'Bob', 'Charlie', 'David', 'Eve', 'Quốc Thanh', '日本語'];
     for (const name of names) {
       const match = textToColor(name).match(/^hsl\((\d+),/);
       expect(match).not.toBeNull();
