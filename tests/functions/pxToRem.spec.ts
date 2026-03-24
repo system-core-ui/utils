@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { pxToRem } from './pxToRem';
+import { pxToRem } from '../../src/lib/functions/pxToRem';
 
 describe('pxToRem', () => {
   it('should convert px to rem with default htmlFontSize (14)', () => {

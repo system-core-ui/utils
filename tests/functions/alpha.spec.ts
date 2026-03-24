@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { alpha } from './alpha';
+import { alpha } from '../../src/lib/functions/alpha';
 
 describe('alpha()', () => {
   it('converts a 6-digit hex with # to rgba', () => {
