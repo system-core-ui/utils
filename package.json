@@ -1,6 +1,6 @@
 {
   "name": "@thanh-libs/utils",
-  "version": "0.0.8-alpha.0",
+  "version": "0.0.8",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.js",
