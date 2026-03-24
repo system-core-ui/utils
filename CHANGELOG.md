@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7-alpha.1](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.7-alpha.0...v0.0.7-alpha.1) (2026-03-24)
+
+
+### Bug Fixes
+
+* remove jest-dom import from setup (not needed for pure function tests) ([f4a5eb8](https://github.com/qthan1004/react-lib-workspace/commit/f4a5eb858ac04b55fa79cbcb163a73078d1e8036))
+
 ### [0.0.7-alpha.0](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.6...v0.0.7-alpha.0) (2026-03-24)
 
 
