@@ -1,3 +1,3 @@
-export { pxToRem } from './pxToRem';
-export { alpha } from './alpha';
-export { textToColor } from './textToColor';
+export { pxToRem } from './pxToRem.js';
+export { alpha } from './alpha.js';
+export { textToColor } from './textToColor.js';

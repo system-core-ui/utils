@@ -1,2 +1,2 @@
-export * from './lib/functions';
-export * from './lib/hooks';
+export * from './lib/functions/index.js';
+export * from './lib/hooks/index.js';
