@@ -37,8 +37,8 @@
   ],
   "standard-version": {
     "scripts": {
-      "prerelease": "npx vitest run --passWithNoTests",
-      "postbump": "npx tsc --project tsconfig.lib.json"
+      "prerelease": "node ../../node_modules/vitest/vitest.mjs run --passWithNoTests",
+      "postbump": "node ../../node_modules/typescript/bin/tsc --project tsconfig.lib.json"
     }
   }
 }
