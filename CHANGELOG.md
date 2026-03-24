@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8-alpha.0](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.7...v0.0.8-alpha.0) (2026-03-24)
+
+
+### Bug Fixes
+
+* add .js extensions to imports for ESM compatibility ([c4b920e](https://github.com/qthan1004/react-lib-workspace/commit/c4b920e9e9a9d7764ba31db080cc759a5f548259))
+
 ### [0.0.7](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.7-alpha.1...v0.0.7) (2026-03-24)
 
 ### [0.0.7-alpha.1](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.7-alpha.0...v0.0.7-alpha.1) (2026-03-24)
