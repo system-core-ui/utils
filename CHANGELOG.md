@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7-alpha.0](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.6...v0.0.7-alpha.0) (2026-03-24)
+
+
+### Features
+
+* **functions:** add textToColor + restructure tests to tests/ folder ([02403a4](https://github.com/qthan1004/react-lib-workspace/commit/02403a4002f64283ae46e651f9cc40e9e0c91756))
+
+
+### Bug Fixes
+
+* correct name Thành → Thanh in tests/docs ([33d8cae](https://github.com/qthan1004/react-lib-workspace/commit/33d8cae98d1a30262573563b766725963d0f9649))
+* use direct module paths for standard-version scripts ([46e8be8](https://github.com/qthan1004/react-lib-workspace/commit/46e8be8a8743c7c5b45a594262341166d58b2803))
+
 ### [0.0.6](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.6-alpha.0...v0.0.6) (2026-03-23)
 
 ### [0.0.6-alpha.0](https://github.com/qthan1004/react-lib-workspace/compare/v0.0.5...v0.0.6-alpha.0) (2026-03-23)
