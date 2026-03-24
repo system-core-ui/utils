@@ -1,1 +1,1 @@
-import "@testing-library/jest-dom/vitest";
+// No additional setup needed for pure function tests
